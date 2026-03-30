@@ -12,6 +12,7 @@ async function initXTND() {
 
 		if (!window.xtnd) {
 			console.warn("XTND SDK not loaded yet");
+
 			return;
 		}
 
