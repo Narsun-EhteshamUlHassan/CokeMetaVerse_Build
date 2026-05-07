@@ -15,7 +15,6 @@
     <type fullname="PatrollingObstacle" preserve="all" />
     <type fullname="PowerupIcon" preserve="all" />
     <type fullname="RandomAnimation" preserve="all" />
-    <type fullname="RestartRunning" preserve="all" />
     <type fullname="Score2Multiplier" preserve="all" />
     <type fullname="ShopItemListItem" preserve="all" />
     <type fullname="SimpleBarricade" preserve="all" />
